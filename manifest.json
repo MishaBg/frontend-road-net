@@ -1,0 +1,30 @@
+{
+  "name": "Дорожная сеть",
+  "short_name": "Дорога",
+  "description": "Сервис для дорожной сети городов",
+  "start_url": "/frontend-road-net/",
+  "scope": "/frontend-road-net/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#6eb1e0",
+  "icons": [
+    {
+      "src": "/frontend-road-net/logo/logo32.svg",
+      "type": "image/svg+xml",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/frontend-road-net/logo/logo192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/frontend-road-net/logo/logo512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
